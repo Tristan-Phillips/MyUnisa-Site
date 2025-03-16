@@ -1,0 +1,336 @@
+{
+  "vaultName": "MyUnisa",
+  "lastExport": 1742124824617,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-1.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-2.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-3.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1-1.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1-2.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2-1.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2-2.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-3.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/qna/PYC1512-MCQ-Q-Online.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/qna/PYC1512-MCQ-QnA-1.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/studentNotes/PYC1512-StudentNote-Short-1.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/tut/2023/PYC1512_TL202_2023_S2.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/tut/2023/PYC1513-TL102-S2.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512_TL201_2024_Semester2.pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512_TL202_2024_Semester2 .pdf",
+    "90180/firstlevel/pyc1512/externalMaterial/tut/2024/tutorial-letter-101.pdf",
+    "90180/firstlevel/pyc1512/providedMaterial/ad/Nwoye 2015.pdf",
+    "90180/firstlevel/pyc1512/providedMaterial/ad/SeedatLazarus_2014_CommunityPsychology.pdf",
+    "90180/firstlevel/pyc1512/providedMaterial/ad/Segalo 2017.pdf",
+    "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 1_Biological Aspects.pdf",
+    "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 2_Developmental.pdf",
+    "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 3_Psychopathology.pdf",
+    "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 4_Community.pdf",
+    "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 5_Social.pdf",
+    "90180/firstlevel/pyc1512/providedMaterial/tut/101_2025_3_b.pdf",
+    "90180/firstlevel/pyc1512/PYC1512-Index.md",
+    "90180/Home-90180.md",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-1.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 81522,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-1.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-2.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 96445,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-2.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-3.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 75927,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-3.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 147934,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1-1.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 73268,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1-1.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1-2.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 72658,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1-2.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 168880,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2-1.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 86657,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2-1.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2-2.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 86076,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2-2.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-3.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 134660,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-3.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/qna/PYC1512-MCQ-Q-Online.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 491274,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/qna/PYC1512-MCQ-Q-Online.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/mcq/qna/PYC1512-MCQ-QnA-1.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 104930,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/qna/PYC1512-MCQ-QnA-1.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/studentNotes/PYC1512-StudentNote-Short-1.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 1636409,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/studentNotes/PYC1512-StudentNote-Short-1.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/tut/2023/PYC1512_TL202_2023_S2.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 141344,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/tut/2023/PYC1512_TL202_2023_S2.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/tut/2023/PYC1513-TL102-S2.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 217302,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/tut/2023/PYC1513-TL102-S2.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512_TL201_2024_Semester2.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 147865,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512_TL201_2024_Semester2.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512_TL202_2024_Semester2 .pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 166285,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512_TL202_2024_Semester2 .pdf/PYC1512_TL202_2024_Semester2 .pdf.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/externalMaterial/tut/2024/tutorial-letter-101.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 285207,
+      "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/tut/2024/tutorial-letter-101.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/providedMaterial/ad/Nwoye 2015.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 102318,
+      "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/ad/Nwoye 2015.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/providedMaterial/ad/SeedatLazarus_2014_CommunityPsychology.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 97822,
+      "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/ad/SeedatLazarus_2014_CommunityPsychology.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/providedMaterial/ad/Segalo 2017.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 156046,
+      "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/ad/Segalo 2017.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 1_Biological Aspects.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 1050339,
+      "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 1_Biological Aspects.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 2_Developmental.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 620101,
+      "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 2_Developmental.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 3_Psychopathology.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 620483,
+      "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 3_Psychopathology.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 4_Community.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 260279,
+      "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 4_Community.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 5_Social.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 383596,
+      "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512 Unit 5_Social.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/providedMaterial/tut/101_2025_3_b.pdf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 371812,
+      "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/tut/101_2025_3_b.pdf",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1512/PYC1512-Index.md": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 1103,
+      "exportedPath": "90180/firstlevel/pyc1512/PYC1512-Index.html",
+      "dependencies": []
+    },
+    "90180/Home-90180.md": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 33,
+      "exportedPath": "90180/Home-90180.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 667,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1742124824617,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    }
+  }
+}
