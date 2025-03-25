@@ -1,6 +1,6 @@
 {
   "vaultName": "MyUnisa",
-  "lastExport": 1742554615880,
+  "lastExport": 1742930367727,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -104,6 +104,11 @@
     "90180/firstlevel/pyc1511/externalMaterial/tut/2024/PYC1511-TUT-2024-101.pdf",
     "90180/firstlevel/pyc1511/externalMaterial/tut/2024/PYC1511-TUT-2024-201.pdf",
     "90180/firstlevel/pyc1511/externalMaterial/tut/2024/PYC1511-TUT-2024-202.pdf",
+    "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/attachments/281b5cefbc2f4a7fa60657525989cb64.jpg",
+    "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/attachments/image.png",
+    "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/attachments/image-1.png",
+    "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/PYC1511-ME-SU1-QUOTES.md",
+    "90180/firstlevel/pyc1511/myNotes/studyUnit/u2/PYC1511-ME-SU2-QUOTES.md",
     "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-1.pdf",
     "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-2.pdf",
     "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-3.pdf",
@@ -143,6 +148,16 @@
     "90180/firstlevel/pyc1513/externalMaterial/mcq/qna/PYC1513-MCQ-QnA-2.pdf",
     "90180/firstlevel/pyc1513/externalMaterial/tut/2023/PYC1513-TUT-2023-102.pdf",
     "90180/firstlevel/pyc1513/externalMaterial/tut/2024/PYC1513-TUT-2024-101.pdf",
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u1/PYC1513-ME-LU1-QUOTES.md",
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image.png",
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image-1.png",
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image-2.png",
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image-3.png",
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/PYS1513-ME-LU2-QUOTES.md",
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/attachments/image.png",
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/attachments/image-1.png",
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/attachments/image-2.png",
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/PYC1513-ME-LU3-QUOTES.md",
     "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-1.pdf",
     "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-2.pdf",
     "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-3.pdf",
@@ -191,999 +206,1089 @@
   ],
   "fileInfo": {
     "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 81522,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 96445,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-3.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 75927,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/a/PYC1512-MCQ-A-3.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 147934,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 73268,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1-2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 72658,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-1-2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 168880,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 86657,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2-2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 86076,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-2-2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-3.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 134660,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/q/PYC1512-MCQ-Q-3.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/mcq/qna/PYC1512-MCQ-Q-Online.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 491274,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/qna/PYC1512-MCQ-Q-Online.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/mcq/qna/PYC1512-MCQ-QnA-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 104930,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/mcq/qna/PYC1512-MCQ-QnA-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/studentNotes/PYC1512-StudentNote-Short-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 1636409,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/studentNotes/PYC1512-StudentNote-Short-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/PYC1512-Index.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 1057,
       "exportedPath": "90180/firstlevel/pyc1512/PYC1512-Index.html",
       "dependencies": []
     },
     "90180/Home-90180.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 93,
       "exportedPath": "90180/Home-90180.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1742554615880,
-      "sourceSize": 723,
+      "modifiedTime": 1742930367727,
+      "sourceSize": 2219,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/tut/2023/PYC1512-TUT-2023-202.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 141344,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/tut/2023/PYC1512-TUT-2023-202.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512-TUT-2024-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 285207,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512-TUT-2024-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512-TUT-2024-201.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 147865,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512-TUT-2024-201.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512-TUT-2024-202.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 166285,
       "exportedPath": "90180/firstlevel/pyc1512/externalMaterial/tut/2024/PYC1512-TUT-2024-202.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/providedMaterial/ad/PYC1512-AD-ARTIC-LAZARUS.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 97822,
       "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/ad/PYC1512-AD-ARTIC-LAZARUS.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/providedMaterial/ad/PYC1512-AD-ARTIC-NWOYEN.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 102318,
       "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/ad/PYC1512-AD-ARTIC-NWOYEN.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/providedMaterial/ad/PYC1512-AD-ARTIC-SEGALO.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 156046,
       "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/ad/PYC1512-AD-ARTIC-SEGALO.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512-2025-LU-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 1050339,
       "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512-2025-LU-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512-2025-LU-2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 620101,
       "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512-2025-LU-2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512-2025-LU-3.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 620483,
       "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512-2025-LU-3.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512-2025-LU-4.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 260279,
       "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512-2025-LU-4.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512-2025-LU-5.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 383596,
       "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/learningUnits/PYC1512-2025-LU-5.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1512/providedMaterial/tut/PYC1512-TUT-2025-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 371812,
       "exportedPath": "90180/firstlevel/pyc1512/providedMaterial/tut/PYC1512-TUT-2025-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/externalMaterial/mcq/qna/PYC1513-MCQ-QnA-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 2306976,
       "exportedPath": "90180/firstlevel/pyc1513/externalMaterial/mcq/qna/PYC1513-MCQ-QnA-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/externalMaterial/mcq/qna/PYC1513-MCQ-QnA-2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 68749,
       "exportedPath": "90180/firstlevel/pyc1513/externalMaterial/mcq/qna/PYC1513-MCQ-QnA-2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/externalMaterial/tut/2023/PYC1513-TUT-2023-102.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 217302,
       "exportedPath": "90180/firstlevel/pyc1513/externalMaterial/tut/2023/PYC1513-TUT-2023-102.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/externalMaterial/tut/2024/PYC1513-TUT-2024-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 329180,
       "exportedPath": "90180/firstlevel/pyc1513/externalMaterial/tut/2024/PYC1513-TUT-2024-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-1.pdf": {
-      "modifiedTime": 1742554615880,
-      "sourceSize": 161889,
+      "modifiedTime": 1742930367727,
+      "sourceSize": 169865,
       "exportedPath": "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-2.pdf": {
-      "modifiedTime": 1742554615880,
-      "sourceSize": 348094,
+      "modifiedTime": 1742930367727,
+      "sourceSize": 353321,
       "exportedPath": "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-3.pdf": {
-      "modifiedTime": 1742554615880,
-      "sourceSize": 253599,
+      "modifiedTime": 1742930367727,
+      "sourceSize": 254138,
       "exportedPath": "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-3.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-4.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 374456,
       "exportedPath": "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-4.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-5.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 392545,
       "exportedPath": "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-5.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-6.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 672126,
       "exportedPath": "90180/firstlevel/pyc1513/providedMaterial/learningUnits/PYC1513-2025-LU-6.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/providedMaterial/tut/PYC1513-TUT-2025-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 371812,
       "exportedPath": "90180/firstlevel/pyc1513/providedMaterial/tut/PYC1513-TUT-2025-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/PYC1513-Index.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 582,
       "exportedPath": "90180/firstlevel/pyc1513/PYC1513-Index.html",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/assignment/qna/PYC1511-ASS-A-A1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 79309,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/assignment/qna/PYC1511-ASS-A-A1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/assignment/qna/PYC1511-ASS-A-A1-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 98967,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/assignment/qna/PYC1511-ASS-A-A1-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/assignment/qna/PYC1511-ASS-A-A1-A2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 120823,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/assignment/qna/PYC1511-ASS-A-A1-A2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/assignment/qna/PYC1511-ASS-A-A2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 128522,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/assignment/qna/PYC1511-ASS-A-A2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/exam/prep/PYC1511-EX-PREP-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 62721,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/exam/prep/PYC1511-EX-PREP-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/mcq/qna/PYC1511-MCQ-QnA-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 607770,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/mcq/qna/PYC1511-MCQ-QnA-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/mcq/qna/PYC1511-MCQ-QnA-2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 106803,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/mcq/qna/PYC1511-MCQ-QnA-2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/mcq/qna/PYC1511-MCQ-QnA-Online.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 607727,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/mcq/qna/PYC1511-MCQ-QnA-Online.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/studentNotes/PYC1511-StudentNote-NervousSystem-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 313405,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/studentNotes/PYC1511-StudentNote-NervousSystem-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/studentNotes/PYC1511-StudentNote-U1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 105925,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/studentNotes/PYC1511-StudentNote-U1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/studentNotes/PYC1511-StudentNote-U1-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 115767,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/studentNotes/PYC1511-StudentNote-U1-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/studentNotes/PYC1511-StudentNote-U1-U3.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 264151,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/studentNotes/PYC1511-StudentNote-U1-U3.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/tut/2023/PYC1511-TUT-2023-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 259452,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/tut/2023/PYC1511-TUT-2023-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/tut/2024/PYC1511-TUT-2024-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 388701,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/tut/2024/PYC1511-TUT-2024-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/tut/2024/PYC1511-TUT-2024-201.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 168654,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/tut/2024/PYC1511-TUT-2024-201.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/externalMaterial/tut/2024/PYC1511-TUT-2024-202.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 214129,
       "exportedPath": "90180/firstlevel/pyc1511/externalMaterial/tut/2024/PYC1511-TUT-2024-202.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-1.pdf": {
-      "modifiedTime": 1742554615880,
-      "sourceSize": 491937,
+      "modifiedTime": 1742930367727,
+      "sourceSize": 511859,
       "exportedPath": "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 244546,
       "exportedPath": "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-3.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 834150,
       "exportedPath": "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-3.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-4.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 400488,
       "exportedPath": "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-4.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-5.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 735940,
       "exportedPath": "90180/firstlevel/pyc1511/providedMaterial/learningUnits/PYC1511-2025-LU-5.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/providedMaterial/tut/PYC1511-TUT-2025-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 371812,
       "exportedPath": "90180/firstlevel/pyc1511/providedMaterial/tut/PYC1511-TUT-2025-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pyc1511/PYC1511-Index.md": {
-      "modifiedTime": 1742554615880,
-      "sourceSize": 950,
+      "modifiedTime": 1742930367727,
+      "sourceSize": 1985,
       "exportedPath": "90180/firstlevel/pyc1511/PYC1511-Index.html",
       "dependencies": []
     },
     "90180/firstlevel/pyc1513/externalMaterial/assignments/qna/PYC1513-ASS-A-A2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 66136,
       "exportedPath": "90180/firstlevel/pyc1513/externalMaterial/assignments/qna/PYC1513-ASS-A-A2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/ad/PLS1501-AD-IGNOU-UNI-U1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 178389,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/ad/PLS1501-AD-IGNOU-UNI-U1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/ad/PLS1501-AD-JOURNAL-AFRICAvWESTERN.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 180132,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/ad/PLS1501-AD-JOURNAL-AFRICAvWESTERN.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/ad/PLS1501-AD-Logic.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 15137,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/ad/PLS1501-AD-Logic.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/ad/PLS1501-AD-Metaphysics.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 62215,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/ad/PLS1501-AD-Metaphysics.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/ad/PLS1501-AD-TERMSGLOSSARY.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 124286,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/ad/PLS1501-AD-TERMSGLOSSARY.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/assignment/q/PLS1501-ASS-A-A2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 100585,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/assignment/q/PLS1501-ASS-A-A2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 94408,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A1-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 73632,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A1-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 169146,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A2-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 88558,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A2-1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A2-2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 190700,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A2-2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A2-3.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 64995,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-A2-3.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-PLATOvARISTOTLE.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 81840,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/assignment/studentAnswers/PLS1501-ASS-STUDENT-A-PLATOvARISTOTLE.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2015/PLS1501-EX-2015-Q-MJ.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 50535,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2015/PLS1501-EX-2015-Q-MJ.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2015/PLS1501-EX-2015-Q-ON.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 131393,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2015/PLS1501-EX-2015-Q-ON.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2016/PLS1501-EX-2016-Q-MJ.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 69048,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2016/PLS1501-EX-2016-Q-MJ.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2016/PLS1501-EX-2016-Q-ON.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 86463,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2016/PLS1501-EX-2016-Q-ON.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2018/PLS1501-EX-2018-Q-MJ.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 63837,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2018/PLS1501-EX-2018-Q-MJ.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2018/PLS1501-EX-2018-Q-ON.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 111840,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2018/PLS1501-EX-2018-Q-ON.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2019/PLS1501-EX-2019-Q-MJ.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 77786,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2019/PLS1501-EX-2019-Q-MJ.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2019/PLS1501-EX-2019-Q-ON.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 58354,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2019/PLS1501-EX-2019-Q-ON.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2020/PLS1501-EX-2020-Q-MJ.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 126453,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2020/PLS1501-EX-2020-Q-MJ.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2020/PLS1501-EX-2020-Q-ON.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 127404,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2020/PLS1501-EX-2020-Q-ON.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2021/PLS1501-EX-2021-Q-SN.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 411684,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2021/PLS1501-EX-2021-Q-SN.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2022/PLS1501-EX-2022-Q-ON.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 268828,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2022/PLS1501-EX-2022-Q-ON.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2023/PLS1501-EX-2023-Q-MJ.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 182608,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2023/PLS1501-EX-2023-Q-MJ.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2023/PLS1501-EX-2023-Q-ON.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 199052,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2023/PLS1501-EX-2023-Q-ON.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2024/PLS1501-EX-2024-Q-MJ.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 169735,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2024/PLS1501-EX-2024-Q-MJ.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/exam/2024/PLS1501-EX-2024-Q-ON.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 342206,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/exam/2024/PLS1501-EX-2024-Q-ON.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/studentNotes/PLS1501-StudentNote-EssayChecklist.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 90307,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/studentNotes/PLS1501-StudentNote-EssayChecklist.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/studentNotes/PLS1501-StudentNote-Socrates.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 71540,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/studentNotes/PLS1501-StudentNote-Socrates.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/studentNotes/PLS1501-StudentNote-U2.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 194597,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/studentNotes/PLS1501-StudentNote-U2.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/studyGuide/PLS1501-StudyGuide-2014.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 1177316,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/studyGuide/PLS1501-StudyGuide-2014.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2018/PLS1501-TUT-2018-201.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 441495,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2018/PLS1501-TUT-2018-201.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2019/PLS1501-TUT-2019-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 344155,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2019/PLS1501-TUT-2019-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2019/PLS1501-TUT-2019-501.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 1043034,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2019/PLS1501-TUT-2019-501.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2020/PLS1501-TUT-2020-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 352340,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2020/PLS1501-TUT-2020-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2020/PLS1501-TUT-2020-202.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 209559,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2020/PLS1501-TUT-2020-202.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2020/PLS1501-TUT-2020-203.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 690040,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2020/PLS1501-TUT-2020-203.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2020/PLS1501-TUT-2020-301.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 310475,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2020/PLS1501-TUT-2020-301.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2020/PLS1501-TUT-2020-501.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 1146897,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2020/PLS1501-TUT-2020-501.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2021/PLS1501-TUT-2021-001.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 149983,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2021/PLS1501-TUT-2021-001.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2021/PLS1501-TUT-2021-202.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 190475,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2021/PLS1501-TUT-2021-202.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2021/PLS1501-TUT-2021-501.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 914521,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2021/PLS1501-TUT-2021-501.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2022/PLS1501-TUT-2022-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 206483,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2022/PLS1501-TUT-2022-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2022/PLS1501-TUT-2022-201.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 165206,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2022/PLS1501-TUT-2022-201.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2022/PLS1501-TUT-2022-202.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 125011,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2022/PLS1501-TUT-2022-202.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2022/PLS1501-TUT-2022-301.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 259324,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2022/PLS1501-TUT-2022-301.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2022/PLS1501-TUT-2022-501.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 938840,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2022/PLS1501-TUT-2022-501.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2023/PLS1501-TUT-2023-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 251416,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2023/PLS1501-TUT-2023-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2023/PLS1501-TUT-2023-301.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 278739,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2023/PLS1501-TUT-2023-301.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2023/PLS1501-TUT-2023-501.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 1004909,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2023/PLS1501-TUT-2023-501.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2024/PLS1501-TUT-2024-301.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 276829,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2024/PLS1501-TUT-2024-301.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/externalMaterial/tut/2024/PLS1501-TUT-2024-501.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 49373939,
       "exportedPath": "90180/firstlevel/pls1501/externalMaterial/tut/2024/PLS1501-TUT-2024-501.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/liveClass/class01/PLS1501-LIVECLASS-01-OrientationSession.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 6183370,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/liveClass/class01/PLS1501-LIVECLASS-01-OrientationSession.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/tut/PLS1501-TUT-2025-101.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 384295,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/tut/PLS1501-TUT-2025-101.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/tut/PLS1501-TUT-2025-301.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 291378,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/tut/PLS1501-TUT-2025-301.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/tut/PLS1501-TUT-2025-501.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 49373939,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/tut/PLS1501-TUT-2025-501.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/PLS1501-Index.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 3949,
       "exportedPath": "90180/firstlevel/pls1501/PLS1501-Index.html",
       "dependencies": []
     },
     "universal/HARVARD-REFERENCING-GUIDE.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 670543,
       "exportedPath": "universal/HARVARD-REFERENCING-GUIDE.pdf",
       "dependencies": []
     },
     "universal/HARVARD-REFERENCING-GUIDE-1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 459352,
       "exportedPath": "universal/HARVARD-REFERENCING-GUIDE-1.pdf",
       "dependencies": []
     },
     "universal/UNISA-BIBLIOGRAPHIES.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 291973,
       "exportedPath": "universal/UNISA-BIBLIOGRAPHIES.pdf",
       "dependencies": []
     },
     "universal/UNISA-PLAGIARISM-POLICY.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 39795,
       "exportedPath": "universal/UNISA-PLAGIARISM-POLICY.pdf",
       "dependencies": []
     },
     "universal/UNISA-TURNITIN-GUIDE.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 238419,
       "exportedPath": "universal/UNISA-TURNITIN-GUIDE.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/fullCourse/autoNotes/PLS1501-ME-AutoNotes-STUDYGUIDEQUIZ.png": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 1128138,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/fullCourse/autoNotes/PLS1501-ME-AutoNotes-STUDYGUIDEQUIZ.png",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u1/autoNotes/PLS1501-ME-SU1-AutoNotes-CLAUDESONNET.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 8625,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u1/autoNotes/PLS1501-ME-SU1-AutoNotes-CLAUDESONNET.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u1/autoNotes/PLS1501-ME-SU1-AutoNotes-GEMINIPRO.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 10883,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u1/autoNotes/PLS1501-ME-SU1-AutoNotes-GEMINIPRO.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u1/autoNotes/PLS1501-ME-SU1-AutoNotes-JAMBALARGE.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 4393,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u1/autoNotes/PLS1501-ME-SU1-AutoNotes-JAMBALARGE.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u1/PLS1501-ME-SU1-POINTSTOPONDER.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 663,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u1/PLS1501-ME-SU1-POINTSTOPONDER.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u1/PLS1501-ME-SU1-QUOTES.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 25110,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u1/PLS1501-ME-SU1-QUOTES.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u1/PLS1501-ME-SU1-SELFTEST-Q.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 473,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u1/PLS1501-ME-SU1-SELFTEST-Q.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u1/PLS1501-ME-SU1-SUM.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 0,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u1/PLS1501-ME-SU1-SUM.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u2/additional/PLS1501-ME-SU2-QUOTES-SOCvLA.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 7121,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u2/additional/PLS1501-ME-SU2-QUOTES-SOCvLA.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u2/autoNotes/PLS1501-ME-SU2-AutoNotes-CLAUDESONNET.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 30763,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u2/autoNotes/PLS1501-ME-SU2-AutoNotes-CLAUDESONNET.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u2/autoNotes/PLS1501-ME-SU2-AutoNotes-GEMINIPRO.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 38890,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u2/autoNotes/PLS1501-ME-SU2-AutoNotes-GEMINIPRO.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u2/autoNotes/PLS1501-ME-SU2-AutoNotes-JAMBALARGE.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 12161,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u2/autoNotes/PLS1501-ME-SU2-AutoNotes-JAMBALARGE.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u2/PLS1501-ME-SU2-QUOTES.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 76941,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u2/PLS1501-ME-SU2-QUOTES.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u2/PLS1501-ME-SU2-SELFTEST-Q.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 4180,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u2/PLS1501-ME-SU2-SELFTEST-Q.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/myNotes/studyUnit/u2/PLS1501-ME-SU2-SUM.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 0,
       "exportedPath": "90180/firstlevel/pls1501/myNotes/studyUnit/u2/PLS1501-ME-SU2-SUM.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/assignments/PLS1501-ASS-P-A1.pdf": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 120009,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/assignments/PLS1501-ASS-P-A1.pdf",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/liveClass/class01/PLS1501-LiveClass-01-TRANSCRIPT.vtt": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 165116,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/liveClass/class01/PLS1501-LiveClass-01-TRANSCRIPT.vtt",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/liveClass/class01/PLS1501-LiveClass-01-TRANSCRIPT-MD.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 98049,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/liveClass/class01/PLS1501-LiveClass-01-TRANSCRIPT-MD.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/liveClass/class02/PLS1501-LiveClass-02-TRANSCRIPT.vtt": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 58035,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/liveClass/class02/PLS1501-LiveClass-02-TRANSCRIPT.vtt",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/liveClass/class03/PLS1501-LiveClass-03-TRANSCRIPT.vtt": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 214186,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/liveClass/class03/PLS1501-LiveClass-03-TRANSCRIPT.vtt",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/liveClass/class03/PLS1501-LiveClass-03-TRANSCRIPT-MD.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 126819,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/liveClass/class03/PLS1501-LiveClass-03-TRANSCRIPT-MD.html",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/liveClass/class04/PLS1501-LiveClass-04-TRANSCRIPT.vtt": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 199084,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/liveClass/class04/PLS1501-LiveClass-04-TRANSCRIPT.vtt",
       "dependencies": []
     },
     "90180/firstlevel/pls1501/providedMaterial/liveClass/class04/PLS1501-LiveClass-04-TRANSCRIPT-MD.md": {
-      "modifiedTime": 1742554615880,
+      "modifiedTime": 1742930367727,
       "sourceSize": 115988,
       "exportedPath": "90180/firstlevel/pls1501/providedMaterial/liveClass/class04/PLS1501-LiveClass-04-TRANSCRIPT-MD.html",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/attachments/281b5cefbc2f4a7fa60657525989cb64.jpg": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 111896,
+      "exportedPath": "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/attachments/281b5cefbc2f4a7fa60657525989cb64.jpg",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/attachments/image.png": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 37506,
+      "exportedPath": "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/attachments/image.png",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/attachments/image-1.png": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 9907,
+      "exportedPath": "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/attachments/image-1.png",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/PYC1511-ME-SU1-QUOTES.md": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 44773,
+      "exportedPath": "90180/firstlevel/pyc1511/myNotes/studyUnit/u1/PYC1511-ME-SU1-QUOTES.html",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1511/myNotes/studyUnit/u2/PYC1511-ME-SU2-QUOTES.md": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 0,
+      "exportedPath": "90180/firstlevel/pyc1511/myNotes/studyUnit/u2/PYC1511-ME-SU2-QUOTES.html",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u1/PYC1513-ME-LU1-QUOTES.md": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 12460,
+      "exportedPath": "90180/firstlevel/pyc1513/myNotes/studyUnit/u1/PYC1513-ME-LU1-QUOTES.html",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image.png": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 5647,
+      "exportedPath": "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image.png",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image-1.png": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 7442,
+      "exportedPath": "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image-1.png",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image-2.png": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 7580,
+      "exportedPath": "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image-2.png",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image-3.png": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 7392,
+      "exportedPath": "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/attachments/image-3.png",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/PYS1513-ME-LU2-QUOTES.md": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 35223,
+      "exportedPath": "90180/firstlevel/pyc1513/myNotes/studyUnit/u2/PYS1513-ME-LU2-QUOTES.html",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/attachments/image.png": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 2844,
+      "exportedPath": "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/attachments/image.png",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/attachments/image-1.png": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 3007,
+      "exportedPath": "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/attachments/image-1.png",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/attachments/image-2.png": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 10316,
+      "exportedPath": "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/attachments/image-2.png",
+      "dependencies": []
+    },
+    "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/PYC1513-ME-LU3-QUOTES.md": {
+      "modifiedTime": 1742930367727,
+      "sourceSize": 28157,
+      "exportedPath": "90180/firstlevel/pyc1513/myNotes/studyUnit/u3/PYC1513-ME-LU3-QUOTES.html",
       "dependencies": []
     }
   }
